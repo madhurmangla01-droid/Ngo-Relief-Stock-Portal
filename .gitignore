@@ -6,6 +6,6 @@
 *.log
 *.env*
 *.env.example
-*backend/db/
+*backend/
 *screenshots/
 
