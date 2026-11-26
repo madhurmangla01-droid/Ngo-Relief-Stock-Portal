@@ -29,7 +29,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`NGO Donation & Inventory Management System running on http://localhost:${PORT}`);
+    console.log(`NGO Donation & Inventory Management System running on https://ngo-relief-stock-portal.onrender.com`);
   });
 }
 
