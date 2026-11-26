@@ -1,0 +1,6 @@
+{
+  "name": "NGO Donation & Inventory Management System",
+  "description": "Full-stack donation, goods-in, goods-out distribution, and real-time inventory management system for community NGOs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
